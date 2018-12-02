@@ -24,7 +24,7 @@ if ($_POST['enviar']) {
         }else if (!is_numeric($telefono)){//si el telefono no es numerico introduzco un mensaje recordsndolo
     
          $msj="Debes introducir el telefono con numeros";
-        }else{//Si todo esta correcto introducimos los datos en el array
+        }else{//Si todo esta correcto introducimos los datos en el arrays
             $agenda[$nombre]=$telefono;
         }
 
