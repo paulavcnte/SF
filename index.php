@@ -72,7 +72,7 @@ function visualizar ($agenda){//mostramos los datos del array en una tabla
                 if($agenda==null){//Si el array agenda esta vacio, no contiene ningun contacto
                     echo "Agenda de contactos sin contactos actualmente"; }
                 else{//Sino si que contiene contactos
-                    echo "Agenda de contactos";}?>
+                    echo "Agenda de contactos ";}?>
 </header>
 <body>
 
