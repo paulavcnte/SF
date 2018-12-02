@@ -86,7 +86,7 @@ function visualizar ($agenda){//mostramos los datos del array en una tabla
         <label for="nombre">Nombre</label><input type="text" name="nombre" size="15"/><br/>
         <label for="telefono">Teléfono </label><input type="text" name="telefono" size="15"/><br/>
         <input type="submit" value="Añadir contacto" name="enviar">
-        <input type="submit" value="Eliminar contactos" name="enviar" >
+        <input type="submit" value="Eliminar contactos " name="enviar" >
 
         <!-- Metemos los contactos existentes  ocultos en el formulario-->
          
