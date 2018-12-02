@@ -4,7 +4,7 @@ $agenda="";
 if ($_POST['enviar']) {
 
 
-    $nombre = $_POST['nombre']; //el evento
+    $nombre = $_POST['nombre']; //el nombre
     $telefono = $_POST['telefono']; //el evento
     $agenda = $_POST['agenda']; //el historico
    
